@@ -44,4 +44,4 @@ visando colocar em prática os conhecimentos adquiridos no primeiro período do 
 <p>Página de login:</p>
 <img src="img/screenshots/pgLogin.png">
 
-<a href="malumartinss.github.io/atividade-pratica-supervisionada" rel="_blank">Clique aqui para acessar e interagir com o site</a>
+<a href="https://malumartinss.github.io/atividade-pratica-supervisionada">Clique aqui para acessar e interagir com o site</a>
