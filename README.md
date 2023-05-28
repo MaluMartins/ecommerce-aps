@@ -31,3 +31,15 @@ visando colocar em prática os conhecimentos adquiridos no primeiro período do 
 </ul>
 
 <h3 align="center">Resultados finais</h3>
+
+<p>Página principal:</p>
+<img src="img/screenshots/pgPrincipal.png">
+
+<p>Página de carrinho:</p>
+<img src="img/screenshots/pgCarrinho.png">
+
+<p>Página de descrição de produtos:</p>
+<img src="img/screenshots/pgDescricao.png">
+
+<p>Página de login:</p>
+<img src="img/screenshots/pgLogin.png">
