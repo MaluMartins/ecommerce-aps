@@ -27,7 +27,7 @@ visando colocar em prática os conhecimentos adquiridos no primeiro período do 
   <li>HTML: inserir conteúdo e mídia na página web</li>
   <li>CSS: dar estilo aos conteúdos da página HTML</li>
   <li>JavaScript: realizar interações dentro das páginas</li>
-  <li>Git e Github: versionamento de código, armazenamento de arquivos e hospedagem da página na wev</li>
+  <li>Git e Github: versionamento de código, armazenamento de arquivos e hospedagem da página na web</li>
 </ul>
 
 <h3 align="center">Resultados finais</h3>
